@@ -1,2 +1,2 @@
 # CoinMarketCap-Rank-Notification-Bot
-This is a programme will allow you to receive a notification through a Telegram bot on cryptocurrencies moving down ranks. 
+This is a programme will allow you to receive a notification through a Telegram bot on cryptocurrencies moving up ranks. This Python script is for a Telegram bot that notifies you when a cryptocurrency moves from the 250-600 rank to the 5-150 rank using the CoinMarketCap API. This script will run continuously and check every n minutes the rank of the specified crypto coin, if it is in the desired range it will print it's rank and if it moves out of the range it will send a notification to your Telegram account and exit.
