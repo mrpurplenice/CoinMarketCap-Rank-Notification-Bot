@@ -1,2 +1,2 @@
 # CoinMarketCap-Rank-Notification-Bot
-This is a programme will allow you to receive a notification through a Telegram bot on cryptocurrencies moving up or down ranks 
+This is a programme will allow you to receive a notification through a Telegram bot on cryptocurrencies moving up or down ranks. You will need to create a new Telegram bot by talking to the "BotFather" on Telegram. You will receive an API token that you can use to interact with your bot. Additionally you will need to obtain the CoinMarketCap API to retrieve the current rankings of all cryptocurrencies. Then you will need to parse the JSON response from CoinMarketCap to extract the information you need, such as the rank of each cryptocurrency.
